@@ -1,4 +1,3 @@
 # centromere-crossover-model
-intentionally simplified crossover probability evaluation based on centromere positions
 
-Note: The biological structures are simplified and choromosomes are considered as 1D structures. This is a toy model that is done to improve biological modelling skills and does not suggests any biological idea.
+This project explores how centromere position might influence crossover probability. I built a simplified stochastic toy model to compare different chromosome configurations (metacentric, submetacentric, acrocentric, telocentric). The goal was to translate a genetic intuition into a testable quantitative framework.
